@@ -1,6 +1,6 @@
 # luby-challenge
 
-<img src='lub_react/src/assets/logo.png'>
+<img src='https://camo.githubusercontent.com/476cc5141bc796461feea4faa2ae66be7aec555ff94b2b3b4d3a3e73f3e9b155/68747470733a2f2f7777772e6c7562792e636f6d2e62722f77702d636f6e74656e742f75706c6f6164732f323032302f30352f4c6f676f5f4c7562792e706e67'>
 
 <h2>Requirements</h2>
 
